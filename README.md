@@ -1,16 +1,34 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Raghad-S12/Raghad-S12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1>Hi there, I'm Raghad 👋</h1>
+  <p><strong>Computer Science Student | Focused on Database Systems & Software Engineering</strong></p>
 
-Here are some ideas to get you started:
+  <p>
+    <a href="https://linkedin.com/in/raghad-almalki-171737330">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### 🛠️ Tech Stack & Focus Areas
+
+* **Databases & Engines:** Microsoft SQL Server, T-SQL, Database Normalization, Indexing & Query Tuning.
+* **Core Languages:** SQL, C++, Java, C#.
+* **Tools & Environments:** SSMS, Visual Studio, Git & GitHub.
+
+---
+
+### 📌 Current Focus & Learning Path
+
+- 🔭 Documenting deep technical labs in **SQL Server Engineering & Database Security Hardening**.
+- 💡 Solving advanced data queries and algorithmic problems.
+- 🎯 Practicing hands-on database design, schema architectures, and constraints integrity.
+
+---
+
+<div align="center">
+  <i>"Committed to clean code, solid database architectures, and continuous technical growth."</i>
+</div>
