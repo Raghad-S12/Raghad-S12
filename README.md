@@ -16,7 +16,7 @@
 ### 🛠️ Tech Stack & Focus Areas
 
 * **Databases & Engines:** Microsoft SQL Server, T-SQL, Database Normalization, Indexing & Query Tuning.
-* **Core Languages:** SQL, C++, Java, C#.
+* **Core Languages:** SQL, C++, Java.
 * **Tools & Environments:** SSMS, Visual Studio, Git & GitHub.
 
 ---
